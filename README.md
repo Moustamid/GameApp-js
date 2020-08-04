@@ -13,3 +13,6 @@ Game where you control a paddle with the arrow keys to bounce a ball up to break
 - Add rules button with slider
 
 Live Demo : https://moustamid.github.io/GameApp-js/
+
+
+![](snapchat.PNG)
