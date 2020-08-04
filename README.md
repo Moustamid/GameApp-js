@@ -12,4 +12,4 @@ Game where you control a paddle with the arrow keys to bounce a ball up to break
 - Keep score
 - Add rules button with slider
 
-Live Demo : 
+Live Demo : https://moustamid.github.io/GameApp-js/
